@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![./assets/images/screenshot.png](./screenshot.jpg)
+![screeshot](./assets/images/screenshot.png)
 
 
 
